@@ -1,0 +1,32 @@
+_repo: Les-droits-de-la-femme_53595
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gouges, Olympe de
+    aliases:
+    - Gouge, Madame de (Olympe)
+    - Gouze, Marie
+    - Auby, Marie Gouze
+    - De Gouges, Olympe
+    birthdate: 1748
+    deathdate: 1793
+    gutenberg_agent_id: '47446'
+    url: http://www.gutenberg.org/2009/agents/47446
+description: ''
+gutenberg_bookshelf:
+- FR Politique
+- FR Femmes
+gutenberg_issued: '2016-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53595'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women''s rights'
+- !lcc 'HQ'
+- GITenberg
+title: Les droits de la femme
+url: http://www.gutenberg.org/ebooks/53595
